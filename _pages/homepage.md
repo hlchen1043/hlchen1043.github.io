@@ -6,19 +6,21 @@ author_profile: true
 redirect_from: 
   - /homepage/
 ---
-#### I am a post doctoral research assistant in CART Lab, Purdue Civil Engineering. I hold a Ph.D. degree in Computer Information Technology. My primary research interests lie in Connected and Automated Vehicle (CAV), focus mainly on perception, planning, cybersecurity and CAV in relation with homeland security. I am in charge of the testing vehicle in CART Lab, in which we have several connected, automated vehicle demonstrations. I also deploy and developed the raw data level fusion for cooperative perception in [CARMA system](https://highways.dot.gov/research/operations/CARMA), which works with downstream application like traffic signal control.
+#### I am a post doctoral research assistant in CART Lab, Purdue Civil Engineering. I hold a Ph.D. degree in Computer Information Technology. My primary research interests lie in Connected and Automated Vehicle (CAV), focus mainly on perception, planning, cybersecurity and CAV in relation with homeland security. I am in charge of the testing vehicle in CART Lab, in which we have several connected, automated vehicle demonstrations. Check out our lab's vehicle [here](https://engineering.purdue.edu/CARTLab/research/facilities), and our story on CoE [here](https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2022/2022-0722-ce-feng). I also deploy and developed the raw data level fusion for cooperative perception in [CARMA system](https://highways.dot.gov/research/operations/CARMA), which works with downstream application like traffic signal control.
 
 ## Recent News
-
+##### [Jun 22, 2023] I presented the paper [EfficFrog](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_The_Dark_Side_of_Dynamic_Routing_Neural_Networks_Towards_Efficiency_CVPR_2023_paper.pdf) at the IEEE CVPR2023 conference.
 
 ## Recent Presentations
+
+## Recent Demos
 
 {% include base_path %}
 
 <!-- <script src="{{ base_path }}/assets/js/projects.js"></script>
 
 <div class="archive" id="projectsList"></div> -->
-<div>
+<!-- <div>
   <div class="row" style="padding: 5px 0; border-bottom: 1px solid #ddd;" >
     <div class="col-sm-5"  style="padding-left:0; float: left; vertical-align: top; dispaly: inline-block;">
       <iframe src="https://player.vimeo.com/video/372725937" style="width: 100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -45,7 +47,7 @@ redirect_from:
       </p>
     </div>
   </div>
-</div>
+</div> -->
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111496562-1"></script>

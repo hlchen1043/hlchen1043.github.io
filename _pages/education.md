@@ -60,14 +60,6 @@ author_profile: true
                 <b>Bachlor of Engineering</b> in Electrical Engineering and Automation<br/>
                 <h4></h4>
             </div>
-            <!-- <img class="timeline-image" src="img/anu.png" alt="" /> -->
-            </div>
-            <!-- <div class="timeline-body">
-            <ul>
-                <li class="education-detail-list">Advisor: Xujia Qin</li>
-                <li class="education-detail-list">Thesis: Natual scene construction and rendering of rain and snow</li>
-            </ul>
-            </div> -->
         </div>
         <div class="educationtime">
             <span><br/>Sep 2010 - Jun 2011<br/>Sep 2006 - Jun 2010</span>
