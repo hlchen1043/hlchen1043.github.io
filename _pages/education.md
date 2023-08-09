@@ -17,35 +17,34 @@ author_profile: true
             <div class="timeline-heading">
             <div class="timeline-title">
                 <span><b>Purdue University</b>, West Lafayette, IN<br/>
-                <b>Ph.D.</b> in Electrical and Computer Engineering</span>
+                <b>Ph.D.</b> in Computer and information Technology</span>
             </div>
             <!-- <img class="timeline-image" src="img/anu.png" alt="" /> -->
             </div>
             <div class="timeline-body">
             <ul>
-                <li class="education-detail-list">Advisor: David S. Ebert</li>
-                <li class="education-detail-list">Thesis: Visual analytics for decision making in performance evaluation</li>
+                <li class="education-detail-list">Advisor: Dr. John A. Springer</li>
+                <li class="education-detail-list">Thesis: Adaptive safety and cyber security for connected and automated vehicle system</li>
             </ul>
             </div>
         </div>
         <div class="educationtime">
-            <span><br/>Jun 2013 - May 2020</span>
+            <span><br/>August 2016 - August 2021</span>
         </div>
       </li>
       <li class="timeline-panel">
         <div class="educationinfo">
             <div class="timeline-heading">
             <div class="timeline-title">
-                <span><b>Tufts University</b>, Medford, MA<br/>
-                <b>M.S.</b> of Computer Science</span>
+                <span><b>Purdue University</b>, West Lafayette, IN<br/>
+                <b>M.S.</b> in Mechanical Engineering Technology</span>
                 <h4></h4>
             </div>
             <!-- <img class="timeline-image" src="img/anu.png" alt="" /> -->
             </div>
             <div class="timeline-body">
             <ul>
-                <li class="education-detail-list">Advisor: Remco Chang</li>
-                <li class="education-detail-list">Project: Modeling user interactions for complex visual search tasks</li>
+                <li class="education-detail-list">Advisor: Dr. Henry H. Zhang</li>
             </ul>
             </div>
         </div>
@@ -57,19 +56,18 @@ author_profile: true
         <div class="educationinfo">
             <div class="timeline-heading">
             <div class="timeline-title">
-                <span><b>Zhejiang University of Technology</b>, Hangzhou, China<br/>
-                <b>M.S. Candidate</b> in Computer Science and Technology<br/>
-                <b>Bachelor of Engineering</b> in Software Engineering</span>
+                <span><b>Huazhong University of Science and Technology</b>, Wuhan, Hubei, China<br/>
+                <b>Bachlor of Engineering</b> in Electrical Engineering and Automation<br/>
                 <h4></h4>
             </div>
             <!-- <img class="timeline-image" src="img/anu.png" alt="" /> -->
             </div>
-            <div class="timeline-body">
+            <!-- <div class="timeline-body">
             <ul>
                 <li class="education-detail-list">Advisor: Xujia Qin</li>
                 <li class="education-detail-list">Thesis: Natual scene construction and rendering of rain and snow</li>
             </ul>
-            </div>
+            </div> -->
         </div>
         <div class="educationtime">
             <span><br/>Sep 2010 - Jun 2011<br/>Sep 2006 - Jun 2010</span>
