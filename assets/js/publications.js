@@ -30,7 +30,7 @@ BarChart.prototype.drawHorizontalBar = function (key, top) {
 
 
 $(document).ready(function () {
-    d3.json("/assets/data/publications.json", function (data) {
+    d3.json("/assets/data/julia_publications.json", function (data) {
         // Empty the div
         // d3.select("#publicationsViz").empty();
         d3.select("#publicationsList").empty();
@@ -155,7 +155,7 @@ function showPublication (publicationsContent, paper, i) {
 
     paper.authors.forEach(function (author, j) {
         var mainAuthor = false;
-        if (author == "Jieqiong Zhao" || author == "Jieqiong(Helen) Zhao") {
+        if (author == "Hanlin Chen" || author == "Hanlin(Julia) Chen") {
             author = "" + author + "";
             mainAuthor = true;
             if (j == 0)

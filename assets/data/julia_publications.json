@@ -1,0 +1,340 @@
+{
+ "metadata": {
+  "collection": "publications",
+  "source": "publications.bib",
+  "created": "2023-08-09T21:04:25.742912",
+  "records": 14
+ },
+ "records": [
+  {
+   "type": "conference",
+   "id": "Abraham2017",
+   "citekey": "Abraham2017",
+   "collection": "publications",
+   "title": "Internet of Things Mobility Forensics",
+   "year": "2017",
+   "booktitle": "The 2017 Annual Cerias Information Security Symposium",
+   "author": [
+    {
+     "name": "Abraham, Niveah"
+    },
+    {
+     "name": "Bolaji, Adfolarian A."
+    },
+    {
+     "name": "Chen, Hanlin"
+    },
+    {
+     "name": "Dark, Melissa"
+    },
+    {
+     "name": "Holt, Albert"
+    },
+    {
+     "name": "Springer, John A."
+    }
+   ]
+  },
+  {
+   "type": "conference",
+   "id": "Yu2018",
+   "citekey": "Yu2018",
+   "collection": "publications",
+   "title": "Controller Design for Mechatronic Rotary Inverted Pendulum",
+   "year": "2018",
+   "booktitle": "2018 ASEE Mid-Atlantic Section Spring Conference",
+   "author": [
+    {
+     "name": "Yu, Wangling"
+    },
+    {
+     "name": "Chen, Hanlin"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "AI_drone_fire",
+   "citekey": "AI_drone_fire",
+   "collection": "publications",
+   "title": "Deep learning based wildfire event object detection from 4K aerial images acquired by UAS",
+   "year": "2020",
+   "author": [
+    {
+     "name": "Tang, Ziyang"
+    },
+    {
+     "name": "Liu, Xiang"
+    },
+    {
+     "name": "Chen, Hanlin"
+    },
+    {
+     "name": "Hupy, Joseph"
+    },
+    {
+     "name": "Yang, Baijian"
+    }
+   ],
+   "journal": {
+    "name": "AI",
+    "volume": "1",
+    "number": "1",
+    "pages": "117--140"
+   }
+  },
+  {
+   "type": "conference",
+   "id": "TPS2019",
+   "citekey": "TPS2019",
+   "collection": "publications",
+   "title": "A Performance Evaluation of CAN Encryption",
+   "year": "2019",
+   "booktitle": "The First IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications",
+   "author": [
+    {
+     "name": "Chen, Hanlin"
+    },
+    {
+     "name": "Yang, Baijian"
+    }
+   ]
+  },
+  {
+   "type": "conference",
+   "id": "MetroCAD2020",
+   "citekey": "MetroCAD2020",
+   "collection": "publications",
+   "title": "A Risk Analysis Framework for Vehicular Networks",
+   "year": "2020",
+   "booktitle": "The Third IEEE International Conference on Connected and Autonomous Driving ",
+   "author": [
+    {
+     "name": "Chen, Hanlin"
+    },
+    {
+     "name": "Springer, John A."
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "guo2023dca",
+   "citekey": "guo2023dca",
+   "collection": "publications",
+   "title": "DCA: Delayed Charging Attack on the Electric Shared Mobility System",
+   "year": "2023",
+   "author": [
+    {
+     "name": "Guo, Shuocheng"
+    },
+    {
+     "name": "Chen, Hanlin"
+    },
+    {
+     "name": "Rahman, Mizanur"
+    },
+    {
+     "name": "Qian, Xinwu"
+    }
+   ]
+  },
+  {
+   "type": "misc",
+   "id": "chen2023improving",
+   "citekey": "chen2023improving",
+   "collection": "publications",
+   "title": "Improving Autonomous Vehicle Mapping and Navigation in Work Zones Using Crowdsourcing Vehicle Trajectories",
+   "year": "2023",
+   "author": [
+    {
+     "name": "Chen, Hanlin"
+    },
+    {
+     "name": "Luo, Renyuan"
+    },
+    {
+     "name": "Feng, Yiheng"
+    }
+   ]
+  },
+  {
+   "type": "misc",
+   "id": "chen2022cooperative",
+   "citekey": "chen2022cooperative",
+   "collection": "publications",
+   "title": "A Cooperative Perception Environment for Traffic Operations and Control",
+   "year": "2022",
+   "author": [
+    {
+     "name": "Chen, Hanlin"
+    },
+    {
+     "name": "Liu, Brian"
+    },
+    {
+     "name": "Zhang, Xumiao"
+    },
+    {
+     "name": "Qian, Feng"
+    },
+    {
+     "name": "Mao, Z. Morley"
+    },
+    {
+     "name": "Feng, Yiheng"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "EfficFrog",
+   "citekey": "EfficFrog",
+   "collection": "publications",
+   "title": "The Dark Side of Dynamic Routing Neural Networks: Towards Efficiency Backdoor Injection",
+   "year": "2023",
+   "booktitle": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "pages": "24585--24594",
+   "month": "June",
+   "author": [
+    {
+     "name": "Chen, Simin"
+    },
+    {
+     "name": "Chen, Hanlin"
+    },
+    {
+     "name": "Haque, Mirazul"
+    },
+    {
+     "name": "Liu, Cong"
+    },
+    {
+     "name": "Yang, Wei"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "TIV_UCR",
+   "citekey": "TIV_UCR",
+   "collection": "publications",
+   "title": "Cybersecurity on Connected and Automated Transportation Systems: A Survey",
+   "year": "2023",
+   "author": [
+    {
+     "name": "Abdo, Ahmed"
+    },
+    {
+     "name": "Chen, Hanlin"
+    },
+    {
+     "name": "Zhao, Xuanpeng"
+    },
+    {
+     "name": "Wu, Guoyuan"
+    },
+    {
+     "name": "Feng, Yiheng"
+    }
+   ]
+  },
+  {
+   "type": "misc",
+   "id": "TRB2024BlueICE",
+   "citekey": "TRB2024BlueICE",
+   "collection": "publications",
+   "title": "Blue ICE - An Integrative Customizable Simulated Environment for Autonomous Driving",
+   "year": "2024",
+   "author": [
+    {
+     "name": "He, Yuankai"
+    },
+    {
+     "name": "Chen, Hanlin"
+    },
+    {
+     "name": "Shi, Weisong"
+    }
+   ]
+  },
+  {
+   "type": "misc",
+   "id": "TRB2024CCAT",
+   "citekey": "TRB2024CCAT",
+   "collection": "publications",
+   "title": "A Cooperative Perception System for Aiding CAVs Navigation and Improving Safety",
+   "year": "2024",
+   "author": [
+    {
+     "name": "Chen, Hanlin"
+    },
+    {
+     "name": "Bandaru, Vamsi K."
+    },
+    {
+     "name": "Wang, Yilin"
+    },
+    {
+     "name": "Romero, Mario A."
+    },
+    {
+     "name": "Tarko, Andrew"
+    },
+    {
+     "name": "Feng, Yiheng"
+    }
+   ]
+  },
+  {
+   "type": "misc",
+   "id": "TRB2024SlothAV",
+   "citekey": "TRB2024SlothAV",
+   "collection": "publications",
+   "title": "Impact Analysis of Inference Time Attack of Perception Sensors on Autonomous Vehicles",
+   "year": "2024",
+   "author": [
+    {
+     "name": "Chen, Hanlin"
+    },
+    {
+     "name": "Chen, Simin"
+    },
+    {
+     "name": "Li, Wenyu"
+    },
+    {
+     "name": "Yang, Wei"
+    },
+    {
+     "name": "Feng, Yiheng"
+    }
+   ]
+  },
+  {
+   "type": "misc",
+   "id": "TRB2024LCFV",
+   "citekey": "TRB2024LCFV",
+   "collection": "publications",
+   "title": "I know you changed your lane without seeing you: a lane change time estimation based on following vehicle's trajectory only",
+   "year": "2024",
+   "author": [
+    {
+     "name": "Chen, Hanlin"
+    },
+    {
+     "name": "Xu, Xiaolin"
+    },
+    {
+     "name": "Sun, Jeffrey"
+    },
+    {
+     "name": "Chen, Qilin"
+    },
+    {
+     "name": "Feng, Yiheng"
+    }
+   ]
+  }
+ ]
+}
