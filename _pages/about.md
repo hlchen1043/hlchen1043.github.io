@@ -19,7 +19,7 @@ I am a post doctoral research assistant in CART Lab, Purdue Civil Engineering. I
 
 Check out our lab's vehicle [here](https://engineering.purdue.edu/CARTLab/research/facilities), and our story on CoE [here](https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2022/2022-0722-ce-feng)
 
-I've also implemented the [CARMA system](https://highways.dot.gov/research/operations/CARMA) co-simulation platform for CART lab. Customized modification regarding our research need is done by me for realistic online perception and vehicle kinematics co-simulation with microscopic level traffic simulation
+I've also implemented the [CARMA system](https://highways.dot.gov/research/operations/CARMA) co-simulation platform for CART lab. Customized modification regarding our research need is done by me for realistic online perception and vehicle kinematics co-simulation with microscopic level traffic simulation. This work is featured by USDOT[here](https://engineering.purdue.edu/CARTLab/news/we-are-on-the-usdot-research-and-technology-news). 
 
 <br>
 Email: chen1368 AT purdue DOT edu <br>

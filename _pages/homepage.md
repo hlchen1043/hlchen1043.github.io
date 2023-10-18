@@ -10,6 +10,7 @@ redirect_from:
 
 ## Recent News
 ##### [Jun 22, 2023] I presented the paper [EfficFrog](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_The_Dark_Side_of_Dynamic_Routing_Neural_Networks_Towards_Efficiency_CVPR_2023_paper.pdf) at the IEEE CVPR2023 conference.
+##### [Jan 11, 2023] I presented our work [Cybersecurity on Connected and Automated Vehicles: a survey] at the 103rd TRBAM conference
 
 ## Recent Presentations
 
